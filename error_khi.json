@@ -1,1 +1,2 @@
-cx{"date":"2023-06-05T14:11:11.528Z","error":"Error: fatal: ambiguous argument 'Main': unknown revision or path not in the working tree.\nUse '--' to separate paths from revisions, like this:\n'git <command> [<revision>...] -- [<file>...]'\n","error_task":{"task":{"commands":["diff","Main"],"format":"utf-8"}}}
+cx{"date":"2023-06-05T14:11:11. n528Z","erro
+  r":"Errsdssaor: fatal: ambiguous argument 'Main': unknown revision or path not in the working tree.\nUse '--' to separate paths from revisions, like this:\n'git <command> [<revision>...] -- [<file>...]'\n","error_task":{"task":{"commands":["diff","Main"],"format":"utf-8"}}}
